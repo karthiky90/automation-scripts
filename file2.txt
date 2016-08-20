@@ -1,1 +1,2 @@
 Adding this file to see git stash command
+Addind a line in branchA

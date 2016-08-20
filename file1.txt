@@ -1,3 +1,3 @@
 This is just a sample file for home work
 
-This change is from branchB
+This line is being changed for merge conflict.This change is from branchB
